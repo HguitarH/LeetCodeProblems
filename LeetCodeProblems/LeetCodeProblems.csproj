@@ -45,7 +45,9 @@
   <ItemGroup>
     <Compile Include="Common.cs" />
     <Compile Include="FirstBadVersion.cs" />
+    <Compile Include="HouseRobber.cs" />
     <Compile Include="LinkedListCycle.cs" />
+    <Compile Include="MinStack.cs" />
     <Compile Include="MoveZeroes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
